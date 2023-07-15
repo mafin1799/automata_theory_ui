@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'ALS_Sector-Bold';
+    src: url(../fonts/ALS_Sector-Bold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'ALS_Sector-Regular';
+    src: url(../fonts/ALS_Sector-Regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'ALS_Sector-Stencil';
+    src: url(../fonts/ALS_Sector-Stencil.otf) format('opentype');
+}
+
+.font-bauman-1{
+    font-family: 'ALS_Sector-Bold';
+}
+
+.font-bauman-2{
+    font-family: 'ALS_Sector-Regular';
+}
+
+.font-bauman-3{
+    font-family: 'ALS_Sector-Stencil';
+}
